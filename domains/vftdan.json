@@ -1,0 +1,14 @@
+{
+  "description": "vftdan's personal github pages, mostly for JavaScript projects",
+  "repo": "https://github.com/Vftdan/vftdan.github.io",
+  "owner": {
+    "username": "Vftdan",
+    "email": "",
+    "twitter": "vftdan",
+    "telegram": "vft_dan",
+    "fediverse": "@vftdan@mastodon.ml"
+  },
+  "record": {
+    "CNAME": "vftdan.github.io"
+  }
+}
