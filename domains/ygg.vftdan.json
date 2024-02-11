@@ -1,0 +1,15 @@
+{
+  "description": "vftdan's main machine Yggdrasil network address",
+  "owner": {
+    "username": "Vftdan",
+    "email": "",
+    "twitter": "vftdan",
+    "telegram": "vft_dan",
+    "fediverse": "@vftdan@mastodon.ml"
+  },
+  "record": {
+    "AAAA": [
+      "0200:e701:87f4:7351:71b9:f8b1:c9d:3e68"
+    ]
+  }
+}
